@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "hamza",
+      "image": "/images/users/hamza.jpeg",
+      "password": "1234",
+      "role": "admin",
+      "cart": [
+        {
+          "title": "Skirts",
+          "price": "40 USD",
+          "image": "/images/clothes/clothing2.jpg",
+          "descreption": "Elegant skirts made from premium fabrics, perfect for office or evening events.",
+          "quantity": 1
+        },
+        {
+          "title": "iPhone 12",
+          "price": "2000 USD",
+          "image": "/images/electronics/iphone12.jpg",
+          "descreption": "Latest iPhone with advanced camera features, OLED display, and 5G connectivity for modern usage.",
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "electronics": [
+    {
+      "title": "HeadPhones Pro",
+      "price": "20 USD",
+      "image": "/images/electronics/headphonesPro.jpg",
+      "descreption": "High-quality over-ear headphones with noise-cancelling technology for immersive sound experience."
+    },
+    {
+      "title": "iPhone 8",
+      "price": "1000 USD",
+      "image": "/images/electronics/iphone8.jpg",
+      "descreption": "Sleek and reliable smartphone with a powerful processor and Retina display for smooth performance."
+    },
+    {
+      "title": "iPhone 12",
+      "price": "2000 USD",
+      "image": "/images/electronics/iphone12.jpg",
+      "descreption": "Latest iPhone with advanced camera features, OLED display, and 5G connectivity for modern usage."
+    },
+    {
+      "title": "iPhones",
+      "price": "free",
+      "image": "/images/electronics/iphones.jpg",
+      "descreption": "A collection of iPhones in various models, ideal for tech enthusiasts and collectors."
+    },
+    {
+      "title": "MacBook Air m4",
+      "price": "6000 USD",
+      "image": "/images/electronics/macbookairm4.jpg",
+      "descreption": "Ultra-light laptop with long battery life and Retina display, perfect for students and professionals."
+    },
+    {
+      "title": "OnePlus 6",
+      "price": "3000 USD",
+      "image": "/images/electronics/oneplus6.jpg",
+      "descreption": "High-performance smartphone with fast charging, AMOLED display, and smooth multitasking capabilities."
+    }
+  ],
+  "clothes": [
+    {
+      "title": "Shirts",
+      "price": "30 USD",
+      "image": "/images/clothes/clothing1.jpg",
+      "descreption": "Comfortable cotton shirts available in multiple colors, suitable for casual and formal wear."
+    },
+    {
+      "title": "Skirts",
+      "price": "40 USD",
+      "image": "/images/clothes/clothing2.jpg",
+      "descreption": "Elegant skirts made from premium fabrics, perfect for office or evening events."
+    },
+    {
+      "title": "Colorful Shirts",
+      "price": "60 USD",
+      "image": "/images/clothes/clothing3.jpg",
+      "descreption": "Bright and vibrant shirts designed to stand out, made from breathable and lightweight materials."
+    },
+    {
+      "title": "Dress",
+      "price": "120 USD",
+      "image": "/images/clothes/dress.jpg",
+      "descreption": "Chic and stylish dress ideal for parties, weddings, and formal gatherings."
+    },
+    {
+      "title": "Hat",
+      "price": "15 USD",
+      "image": "/images/clothes/hats.jpg",
+      "descreption": "Fashionable hat that combines comfort and style, perfect for sunny days and casual outings."
+    }
+  ]
+}
