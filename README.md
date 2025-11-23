@@ -33,5 +33,15 @@ Before running the app, make sure you have:
 git clone https://github.com/YourUsername/infinity-styles.git
 cd infinity-styles
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Store Page
+![Store Page](screenshots/store.png)
+
+### Admin Panel
+![Admin Panel](screenshots/adminpanel.png)
 
 
